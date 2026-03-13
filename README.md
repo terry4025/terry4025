@@ -1,13 +1,13 @@
 Hi! I'm Se Young ✨
 =================
 
-"Frontend developer"  
-"Backend survivor"
+> <font color="#888888">"Frontend developer"</font><br>
+> <font color="#888888">"Backend survivor"</font>
 
 🎉 I just recently finished my portfolio, check it out [here](#)  
 🤖 Currently exploring No-Code Web Builder, Generative AI, and n8n Automation
 
-`"Hoping AI doesn't take over my job... but also hoping it finishes my code.."`
+`"Turning complex problems into elegant solutions, one commit at a time."`
 
 ### 🌐 Socials
 
